@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Ayush",
+        "class": "MCA",
+        "rollNo": "1",
+        "address": "Noida"
+    },
+    {
+        "name": "Amit",
+        "class": "MCA",
+        "rollNo": 2,
+        "address": "Noida"
+    },
+    {
+        "name": "Abhinav",
+        "class": "MCA",
+        "rollNo": 3,
+        "address": "Noida"
+    },
+    {
+        "name": "Shivam",
+        "class": "MCA",
+        "rollNo": 4,
+        "address": "Noida"
+    },
+    {
+        "name": "Ankit",
+        "class": "MCA",
+        "rollNo": 5,
+        "address": "Noida" 
+    },
+    {
+        "name": "Vikas",
+        "class": "MCA",
+        "rollNo": 6,
+        "address": "Noida" 
+    },
+    {
+        "name": "Ankur",
+        "class":  "B.tech",
+        "rollNo": 7,
+        "address": "Gurugram" 
+    },
+    {
+        "name": "Atul",
+        "class":  "B.tech",
+        "rollNo": 8,
+       "address": "Gurugram"  
+    },
+    {
+        "name": "Pankaj",
+        "class":  "B.tech",
+        "rollNo": 9,
+       "address": "Gurugram"  
+    },
+    {
+        "name": "Manish",
+        "class":  "B.tech",
+        "rollNo": 10,
+       "address": "Gurugram"  
+    }
+]
